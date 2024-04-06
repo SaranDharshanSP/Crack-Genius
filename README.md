@@ -7,7 +7,6 @@ Crack detection is achieved through a deep learning model inspired by GoogleNet 
 
 ### Report Generation
 The report generation process utilizes various technologies to create comprehensive inspection reports. Firstly, a Visual Question Answering (VQA) model is employed to gather answers related to detected cracks and other visual aspects from the inspection data. Additionally, depth camera data is utilized to provide further insights into the structural condition. Finally, a Language Model (LM) is used to generate detailed inspection reports in Markdown format.
-
 The generated reports are presented to users through a Streamlit web page interface, offering an intuitive and accessible platform for viewing inspection findings and recommendations.
 
 ## Contributors
