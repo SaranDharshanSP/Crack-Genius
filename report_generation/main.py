@@ -7,7 +7,7 @@ import streamlit as st
 load_dotenv()
 
 genai.configure(api_key=os.getenv("VISION_PRO"))
-img = PIL.Image.open("IMG_PATH")
+img = PIL.Image.open("E:\\ieee\\vqa\\Drone-Rangers\\report_generation\\crack.jpeg")
 
 # Data from the depth model
 depth = "0.9 inch"
@@ -122,6 +122,7 @@ mark = convo.last.text
 
 # Streamlit
 st.markdown("## **Crack Report**")
+
 col1, col2 = st.columns([0.5, 0.5])
 col1.image(img , use_column_width=True)
 df = pd.DataFrame({"Length":[59],"Width": [0.25], "Depth": [0.9]})
