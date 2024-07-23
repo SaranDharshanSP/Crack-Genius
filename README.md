@@ -19,7 +19,7 @@ https://github.com/SaranDharshanSP/Crack-Genius/assets/126688534/5dedb8ad-3ff6-4
 
  
 ## Update:
-We have won 6th place in the [IEEE IES Gen AI Challenge 2024](https://ai.ieee-ies.org/) 🥳🥳
+We have won 6th place in the [IEEE IES Gen AI Challenge 2024](https://ai.ieee-ies.org/) and are invited to present our paper at IECON 2024, Chicago 🥳🥳
 
 ### Video Link:
 
