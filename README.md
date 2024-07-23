@@ -17,6 +17,10 @@ To provide a visual overview of our project's capabilities and functionality, we
 
 https://github.com/SaranDharshanSP/Crack-Genius/assets/126688534/5dedb8ad-3ff6-4191-8da1-10f96fe6baba
 
+ 
+## Update:
+We have won 6th place in the [IEEE IES Gen AI Challenge 2024](https://ai.ieee-ies.org/) 🥳🥳
+
 ### Video Link:
 
 [Watch the Video Demonstration on YouTube](https://youtu.be/58DFlQDVckI)
